@@ -1,7 +1,7 @@
 INSERT IGNORE INTO users (username, email, password)
 VALUES 
-('yalin', 'yalingulec96@email.com', 'pass123'),
-('alin', 'alingulec69@email.com', 'pass123');
+('yalin', 'yalingulec96@email.com', 'No1BladeLVR'),
+('alin', 'alingulec69@email.com', 'WeregoingUP');
 
 INSERT INTO posts (user_id, content)
 VALUES 
