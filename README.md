@@ -16,6 +16,8 @@ This is a pretty simple database for a social media app. It keeps track of users
 
 The ER diagram can be found within the attached report.
 
+https://docs.google.com/document/d/1Z0oLPdwYpwBEKi3ZwZryu3w1Hy_58oHD4noo_SHj4Ew/edit?tab=t.0
+
 
 
 ## Files in This Project
@@ -43,7 +45,9 @@ The ER diagram can be found within the attached report.
 
 ## Video
 
-Here’s a link to my screen recording of the project: 
+Here’s a link to my screen recording of the project:
+
+https://youtu.be/CWpQoRwO8CM
 
 ---
 
