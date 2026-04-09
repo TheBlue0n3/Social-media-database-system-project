@@ -12,9 +12,9 @@ This is a pretty simple database for a social media app. It keeps track of users
 
 ---
 
-## ER Diagram
+## The report
 
-The ER diagram can be found within the attached report.
+The report can be found within the attached Google doc.
 
 https://docs.google.com/document/d/1Z0oLPdwYpwBEKi3ZwZryu3w1Hy_58oHD4noo_SHj4Ew/edit?tab=t.0
 
